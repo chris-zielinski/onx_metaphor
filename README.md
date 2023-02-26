@@ -1,4 +1,4 @@
-## Metaphor? An online experiment to evaluate the metaphorical aspect of expressions _(onx\_metaphor)_
+## Metaphor? An online experiment to evaluate the metaphorical aspect of groups of words _(onx\_metaphor)_
 ### <img src="img/layout/logo_exp.png" width="200">
 
 Online experiment to collect evaluation scores on groups of words (comprehension, familiarity, beauty, metaphorical character). A knowledge test on writers' names and a form to collect various data (reading habits) are also implemented.
